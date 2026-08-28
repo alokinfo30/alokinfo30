@@ -1,0 +1,99 @@
+<svg width="600" height="220" viewBox="0 0 600 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FFF7C2"/>
+      <stop offset="45%" stop-color="#FFD76A"/>
+      <stop offset="100%" stop-color="#FFB347"/>
+    </linearGradient>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .sparkle {
+        transform-origin: center;
+        animation: twinkle 2.6s ease-in-out infinite;
+        filter: url(#softGlow);
+      }
+      .sparkle.alt { animation-delay: 0.8s; }
+      .sparkle.slow { animation-delay: 1.5s; animation-duration: 3.4s; }
+      .drift {
+        animation: drift 8s ease-in-out infinite alternate;
+        transform-origin: center;
+      }
+      .pulse {
+        animation: pulse 5s ease-in-out infinite;
+        transform-origin: center;
+      }
+      @keyframes twinkle {
+        0%, 100% {
+          opacity: 0.2;
+          transform: scale(0.65) rotate(0deg);
+        }
+        50% {
+          opacity: 1;
+          transform: scale(1.15) rotate(12deg);
+        }
+      }
+      @keyframes drift {
+        0% { transform: translateY(0px) translateX(0px); }
+        100% { transform: translateY(-10px) translateX(8px); }
+      }
+      @keyframes pulse {
+        0%, 100% { opacity: 0.45; }
+        50% { opacity: 0.9; }
+      }
+    </style>
+  </defs>
+
+  <g class="pulse">
+    <circle cx="116" cy="68" r="20" fill="#FFE28A" opacity="0.15"/>
+    <circle cx="470" cy="148" r="24" fill="#FFD66D" opacity="0.12"/>
+    <circle cx="320" cy="70" r="18" fill="#FFF2AC" opacity="0.12"/>
+  </g>
+
+  <g class="drift">
+    <g class="sparkle" transform="translate(70 86)">
+      <path d="M0 -22L7 -7L22 0L7 7L0 22L-7 7L-22 0L-7 -7L0 -22Z" fill="url(#gold)"/>
+    </g>
+
+    <g class="sparkle alt" transform="translate(166 52)">
+      <path d="M0 -18L6 -6L18 0L6 6L0 18L-6 6L-18 0L-6 -6L0 -18Z" fill="url(#gold)"/>
+    </g>
+
+    <g class="sparkle slow" transform="translate(275 118)">
+      <path d="M0 -26L8 -8L26 0L8 8L0 26L-8 8L-26 0L-8 -8L0 -26Z" fill="url(#gold)"/>
+    </g>
+
+    <g class="sparkle" transform="translate(392 70)">
+      <path d="M0 -20L7 -7L20 0L7 7L0 20L-7 7L-20 0L-7 -7L0 -20Z" fill="url(#gold)"/>
+    </g>
+
+    <g class="sparkle alt" transform="translate(490 126)">
+      <path d="M0 -18L5 -5L18 0L5 5L0 18L-5 5L-18 0L-5 -5L0 -18Z" fill="url(#gold)"/>
+    </g>
+
+    <g class="sparkle slow" transform="translate(552 84)">
+      <path d="M0 -16L5 -5L16 0L5 5L0 16L-5 5L-16 0L-5 -5L0 -16Z" fill="url(#gold)"/>
+    </g>
+
+    <g class="sparkle" transform="translate(118 160)">
+      <circle r="3.6" fill="#FFD869"/>
+    </g>
+    <g class="sparkle alt" transform="translate(208 170)">
+      <circle r="2.8" fill="#FFE79E"/>
+    </g>
+    <g class="sparkle slow" transform="translate(324 168)">
+      <circle r="3.1" fill="#FFD869"/>
+    </g>
+    <g class="sparkle" transform="translate(430 182)">
+      <circle r="2.9" fill="#FFE79E"/>
+    </g>
+    <g class="sparkle alt" transform="translate(500 164)">
+      <circle r="3.2" fill="#FFD869"/>
+    </g>
+  </g>
+</svg>
