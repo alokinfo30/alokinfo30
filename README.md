@@ -3,14 +3,14 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="./banner.svg?v=1"
+    srcset="./assets/images/banner.png?v=1"
   />
   <source
-    media="(prefers-color-scheme: light)"
-    srcset="./banner-light.svg?v=1"
+    media="(prefers-color-scheme: light)"   
+    srcset="./assets/images/banner-light.png?v=1"
   />
   <img
-    src="./banner.svg?v=1"
+    src="./assets/images/banner.png?v=1"
     alt="Alok Srivastava - Full-Stack Lead | Building Agentic AI Workflows"
     width="100%"
   />
@@ -18,7 +18,7 @@
 
 <br/>
 
-<img src="./lanyard.svg?v=1" alt="Alok Srivastava Developer ID Badge" width="360" />
+<img src="./assets/images/lanyard.png?v=1" alt="Alok Srivastava Developer ID Badge" width="360" />
 
 <br/><br/>
 
@@ -140,15 +140,15 @@ I enjoy working across:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/alokinfo30/alokinfo30/output/stats.svg?v=1" alt="GitHub statistics" width="520"/>
+<img src="./assets/images/stats.png?v=1" alt="GitHub statistics" width="520"/>
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/alokinfo30/alokinfo30/output/langs.svg?v=1" alt="Most used programming languages" width="520"/>
+<img src="./assets/images/langs.png?v=1" alt="Most used programming languages" width="520"/>
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/alokinfo30/alokinfo30/output/trophies.svg?v=1" alt="GitHub trophies" width="700"/>
+<img src="./assets/images/trophies.png?v=1" alt="GitHub trophies" width="700"/>
 
 </div>
 
