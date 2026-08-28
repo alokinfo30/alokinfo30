@@ -3,15 +3,15 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="./banner.svg?v=1"
+    srcset="https://raw.githubusercontent.com/alokinfo30/alokinfo30/output/github-snake-dark.svg?v=1"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="./banner-light.svg?v=1"
+    srcset="https://raw.githubusercontent.com/alokinfo30/alokinfo30/output/github-snake.svg?v=1"
   />
   <img
-    src="./banner.svg?v=1"
-    alt="Alok Srivastava — Full-Stack Lead | Building Agentic AI Workflows"
+    src="https://raw.githubusercontent.com/alokinfo30/alokinfo30/output/github-snake.svg?v=1"
+    alt="GitHub Snake"
     width="100%"
   />
 </picture>
