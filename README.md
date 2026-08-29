@@ -1,37 +1,247 @@
 <div align="center">
 
+<!-- Header Banner -->
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="./assets/images/banner.png?v=1"
+    srcset="./assets/images/banner.png?v=2"
   />
   <source
     media="(prefers-color-scheme: light)"   
-    srcset="./assets/images/banner-light.png?v=1"
+    srcset="./assets/images/banner-light.png?v=2"
   />
   <img
-    src="./assets/images/banner.png?v=1"
+    src="./assets/images/banner.png?v=2"
     alt="Alok Srivastava - Full-Stack Lead | Building Agentic AI Workflows"
     width="100%"
   />
 </picture>
 
+</div>
+
 <br/>
 
-<img src="./assets/images/lanyard.png?v=1" alt="Alok Srivastava Developer ID Badge" width="360" />
+<!-- 2-Column Side-by-Side: Lanyard ID Badge + Featured Creations Table -->
+<table border="0" width="100%">
+  <tr>
+    <td width="36%" align="center" valign="top">
+      <img
+        src="./assets/images/lanyard.png?v=2"
+        alt="Alok Srivastava Developer ID Badge"
+        width="100%"
+      />
+    </td>
+    <td width="64%" valign="top">
+      <h3>?? My Engineering Creations & AI Platforms</h3>
+      <table width="100%">
+        <thead>
+          <tr>
+            <th align="left">?? Project</th>
+            <th align="left">??? Tech Stack</th>
+            <th align="center">?</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>
+              <a href="https://github.com/alokinfo30/Gamebot.ai">
+                <b>?? Gamebot.ai</b>
+              </a>
+            </td>
+            <td>
+              <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+              <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+              <img src="https://img.shields.io/badge/Gemini_AI-8E44AD?style=flat-square&logo=google&logoColor=white"/>
+              <img src="https://img.shields.io/badge/PWA-4CAF50?style=flat-square&logo=pwa&logoColor=white"/>
+            </td>
+            <td align="center"><b>18</b></td>
+          </tr>
+          <tr>
+            <td>
+              <a href="https://github.com/alokinfo30/compops">
+                <b>??? compops</b>
+              </a>
+            </td>
+            <td>
+              <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+              <img src="https://img.shields.io/badge/Security-E53935?style=flat-square&logo=securityscorecard&logoColor=white"/>
+              <img src="https://img.shields.io/badge/AI_Agents-00897B?style=flat-square"/>
+            </td>
+            <td align="center"><b>12</b></td>
+          </tr>
+          <tr>
+            <td>
+              <a href="https://github.com/alokinfo30/OmniServe-AI">
+                <b>? OmniServe-AI</b>
+              </a>
+            </td>
+            <td>
+              <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+              <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+              <img src="https://img.shields.io/badge/SaaS-6366F1?style=flat-square"/>
+            </td>
+            <td align="center"><b>10</b></td>
+          </tr>
+          <tr>
+            <td>
+              <a href="https://github.com/alokinfo30/StudyOS-AI---Adaptive-Multilingual-Exam-Coach">
+                <b>?? StudyOS-AI</b>
+              </a>
+            </td>
+            <td>
+              <img src="https://img.shields.io/badge/AI_Coach-9333EA?style=flat-square"/>
+              <img src="https://img.shields.io/badge/RAG-2563EB?style=flat-square"/>
+              <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+            </td>
+            <td align="center"><b>8</b></td>
+          </tr>
+          <tr>
+            <td>
+              <a href="https://github.com/alokinfo30/alokinfo30">
+                <b>? Live Profile</b>
+              </a>
+            </td>
+            <td>
+              <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+              <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+              <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+            </td>
+            <td align="center"><b>6</b></td>
+          </tr>
+        </tbody>
+      </table>
+      <br/>
+      <p align="center">
+        <i>?? "I don't just write code, I engineer intelligent scalable systems."</i>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
+## ?? About Me
+
+I'm **Alok Srivastava**, a **Senior Systems Architect & Full-Stack AI Lead** specializing in building scalable software systems, high-throughput microservices, and autonomous multi-agent workflows.
+
+> **Full-Stack Lead | Building Agentic AI Workflows, Node.js Backends & Distributed Systems**
+
+I enjoy working across:
+- ?? **Generative AI & Agentic AI**: Autonomous multi-agent orchestration, RAG, and LLM fine-tuning.
+- ??? **Distributed Systems & Microservices**: Event-driven architectures, WebSockets, gRPC, and message brokers.
+- ? **Node.js & Python Architecture**: High-concurrency backend services with PostgreSQL, MongoDB, Redis, and DynamoDB.
+- ?? **Modern Frontend & Mobile**: React 19, Next.js, TypeScript, Tailwind CSS, and Progressive Web Apps (PWA).
+- ?? **Cloud Platforms & DevOps**: AWS, Azure, Docker, Kubernetes, CI/CD GitHub Actions.
+- ?? **Security Architecture**: SSO, OAuth 2.0, Web Application Firewalls (WAF), and CSP compliance.
+
+<br/>
+
+---
+
+## ?? Core Technology Stack
+
+<div align="center">
+
+| Domain | Technologies & Frameworks |
+| :--- | :--- |
+| **Backend** | `Node.js` `Express.js` `NestJS` `Python` `FastAPI` `Go` |
+| **Frontend** | `JavaScript` `TypeScript` `React 19` `Next.js` `Redux Toolkit` `Tailwind CSS` |
+| **AI / LLM** | `Generative AI` `Gemini 3.6/3.7` `LangChain` `CrewAI` `LangGraph` `RAG` `Vector DBs` |
+| **Databases & Cache** | `PostgreSQL` `MongoDB` `Redis` `MySQL` `DynamoDB` `Cosmos DB` |
+| **Cloud & DevOps** | `AWS` `Azure` `Docker` `Kubernetes` `GitHub Actions` `CI/CD` |
+| **Security & Realtime**| `OAuth 2.0` `JWT` `WAF` `WebSockets` `SSE` `Prometheus` `Grafana` |
+
+</div>
+
+<br/>
+
+---
+
+## ?? GitHub Stats & Graphs
+
+<div align="center">
+
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="./assets/images/stats.png?v=2" alt="GitHub statistics" width="100%"/>
+    </td>
+    <td width="50%" align="center">
+      <img src="./assets/images/langs.png?v=2" alt="Most used programming languages" width="100%"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- GitHub Streak Stats -->
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=alokinfo30&theme=tokyonight&hide_border=true&border_radius=12&background=0d1117"
+  alt="Alok Srivastava GitHub Streak"
+  width="520"
+/>
 
 <br/><br/>
 
-<a href="https://github.com/alokinfo30">
-  <img src="https://img.shields.io/badge/GitHub-alokinfo30-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+<!-- GitHub Trophies -->
+<img src="./assets/images/trophies.png?v=2" alt="GitHub trophies" width="700"/>
+
+<br/><br/>
+
+<!-- Contribution Activity Graph -->
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=alokinfo30&bg_color=0d1117&color=ff4db8&line=a855f7&point=ffffff&area=true&hide_border=true"
+  alt="Alok Srivastava contribution activity graph"
+  width="95%"
+/>
+
+<br/><br/>
+
+<!-- Contribution Snake Animation -->
+<h3>?? Watch the snake eat my contributions</h3>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/alokinfo30/alokinfo30/output/github-snake-dark.svg?v=2"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/alokinfo30/alokinfo30/output/github-snake.svg?v=2"
+  />
+  <img
+    src="https://raw.githubusercontent.com/alokinfo30/alokinfo30/output/github-snake.svg?v=2"
+    alt="GitHub contribution snake animation"
+    width="95%"
+  />
+</picture>
+
+</div>
+
+<br/>
+
+---
+
+## ?? Let's Connect
+
+<div align="center">
+
+<a href="mailto:alokinfo30@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 &nbsp;
-<a href="mailto:alokinfo30@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<a href="https://github.com/alokinfo30">
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/alok-srivastava-77b9b460/">
-  <img src="https://img.shields.io/badge/LinkedIn-Alok%20Srivastava-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://github.com/alokinfo30">
+  <img src="https://img.shields.io/badge/PORTFOLIO-FF4DB8?style=for-the-badge&logo=appveyor&logoColor=white" alt="Portfolio"/>
 </a>
 
 <br/><br/>
@@ -41,209 +251,11 @@
   alt="Profile views"
 />
 
-</div>
-
----
-
-## 👋 About Me
-
-I'm **Alok Srivastava**, a **Senior Systems Architect & AI Lead** focused on building scalable software systems, modern full-stack applications, and AI-powered engineering workflows.
-
-> **Full-Stack Lead | Building Agentic AI Workflows, Node.js Backends & Distributed Systems**
-
-I enjoy working across:
-
-- 🤖 Generative AI & Agentic AI
-- 🧠 Large Language Models & RAG
-- 🏗️ Distributed Systems & Microservices
-- ⚡ Node.js backend architecture
-- ⚛️ React.js / Next.js applications
-- ☁️ AWS & Azure cloud platforms
-- 🔄 Event-driven architectures
-- 🔐 Authentication, SSO & API security
-- 👨‍🏫 Software engineering mentorship
-
----
-
-# 🧠 Core Technology Stack
-
-### Backend
-
-`Node.js` `Express.js` `NestJS` `Python` `FastAPI`
-
-### Frontend
-
-`JavaScript` `TypeScript` `React.js` `Next.js` `Redux Toolkit`
-
-### AI / LLM
-
-`Generative AI` `LLMs` `Prompt Engineering` `LangChain` `CrewAI` `LangGraph`
-
-`RAG` `Vector Databases`
-
-### APIs & Architecture
-
-`RESTful APIs` `GraphQL` `Microservices`
-
-`Event-Driven Architecture` `API Gateways`
-
-### Databases
-
-`PostgreSQL` `MySQL` `MongoDB` `Cosmos DB`
-
-`DynamoDB` `Redis`
-
-### Cloud & DevOps
-
-`AWS` `Azure` `Docker` `Kubernetes`
-
-`CI/CD` `GitHub Actions`
-
-### Testing & Engineering
-
-`Jest` `Test Automation` `Git`
-
-`System Architecture Design`
-
-`Technical Documentation`
-
-`Software Engineering Mentorship`
-
-### Security & Real-Time
-
-`SSO` `OAuth 2.0` `JWT`
-
-`WebSockets` `SSE`
-
-`Telemetry` `Prometheus` `Grafana`
-
-### Development Practices
-
-`Agile` `Scrum` `Sprint Planning`
-
-`Micro-Frontends` `Storybook`
-
----
-
-# 🚀 Featured Projects
-
-| Project | Stack | Description |
-|---|---|---|
-| [compops](https://github.com/alokinfo30/compops) | Python / Security / AI | Software supply-chain security platform focused on vulnerability reachability and automated remediation |
-| [Gamebot.ai](https://github.com/alokinfo30/Gamebot.ai) | TypeScript / AI | Cross-platform game with multiplayer, ELO, adaptive AI bots and Gemini-powered analysis |
-| [OmniServe-AI](https://github.com/alokinfo30/OmniServe-AI) | TypeScript / AI | Multi-tenant SaaS platform for field-service management, inventory, CRM and worker dispatch |
-| [StudyOS-AI](https://github.com/alokinfo30/StudyOS-AI---Adaptive-Multilingual-Exam-Coach) | TypeScript / AI | Adaptive multilingual learning platform with spaced repetition and AI-powered exam preparation |
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img src="./assets/images/stats.png?v=1" alt="GitHub statistics" width="520"/>
-
 <br/><br/>
 
-<img src="./assets/images/langs.png?v=1" alt="Most used programming languages" width="520"/>
+<img src="./sparkle.svg?v=2" alt="Sparkles" width="220"/>
 
-<br/><br/>
-
-<img src="./assets/images/trophies.png?v=1" alt="GitHub trophies" width="700"/>
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=alokinfo30&bg_color=0d1117&color=ff4db8&line=a855f7&point=ffffff&area=true&hide_border=true"
-  alt="Alok Srivastava contribution activity graph"
-  width="95%"
-/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/alokinfo30/alokinfo30/output/github-snake-dark.svg?v=1"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/alokinfo30/alokinfo30/output/github-snake.svg?v=1"
-  />
-  <img
-    src="https://raw.githubusercontent.com/alokinfo30/alokinfo30/output/github-snake.svg?v=1"
-    alt="GitHub contribution snake animation"
-    width="95%"
-  />
-</picture>
-
-</div>
-
----
-
-# 💡 Engineering Philosophy
-
-<div align="center">
-
-### `CODE → LEARN → BUILD → REPEAT`
-
-<br/>
-
-<img src="./sparkle.svg?v=1" alt="Sparkle animation" width="500"/>
-
-<br/>
-
-> **Build systems that scale.**
->
-> **Build AI that matters.**
->
-> **Keep learning. Keep growing.**
-
-</div>
-
----
-
-# 🤝 Let's Connect
-
-<div align="center">
-
-If you're working on **AI agents, distributed systems, Node.js platforms, cloud architecture, or modern full-stack applications**, let's connect.
-
-<br/>
-
-<a href="mailto:alokinfo30@gmail.com">
-  <img src="https://img.shields.io/badge/Email-alokinfo30%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-</a>
-
-&nbsp;
-
-<a href="https://github.com/alokinfo30">
-  <img src="https://img.shields.io/badge/GitHub-alokinfo30-181717?style=flat-square&logo=github" />
-</a>
-
-&nbsp;
-
-<a href="https://www.linkedin.com/in/alok-srivastava-77b9b460/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<img src="./sparkle.svg?v=1" alt="Sparkles" width="180"/>
-
-### ⭐ Thanks for visiting!
-
-**Keep Coding. Keep Growing.**
+### ? Thanks for visiting!
+**`CODE ? LEARN ? BUILD ? REPEAT`**
 
 </div>
