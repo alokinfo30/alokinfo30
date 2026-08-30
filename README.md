@@ -2,7 +2,7 @@
 
 <!-- Ultra High-Resolution Animated Banner with Light-to-Dark Transition -->
 <img
-  src="./assets/images/banner.gif?v=3"
+  src="./assets/images/banner.gif?v=4"
   alt="Alok Srivastava - Senior Consultant | Full-Stack Lead & AI Systems Architect"
   width="100%"
 />
@@ -11,99 +11,36 @@
 
 <br/>
 
-<!-- Side-by-Side 2-Column: Live Swinging Lanyard ID + Featured Creations -->
+<!-- Side-by-Side 2-Column: Live Swinging Lanyard ID + About Me Content -->
 <table border="0" width="100%">
   <tr>
     <td width="33%" align="center" valign="middle">
       <img
-        src="./assets/images/lanyard.gif?v=3"
+        src="./assets/images/lanyard.gif?v=4"
         alt="Alok Srivastava Developer ID Badge"
         width="270"
         style="max-height: 480px; width: auto; object-fit: contain;"
       />
     </td>
     <td width="67%" valign="top">
-      <h3>?? My Engineering Creations & AI Platforms</h3>
-      <table width="100%">
-        <thead>
-          <tr>
-            <th align="left">?? Project</th>
-            <th align="left">??? Tech Stack</th>
-            <th align="center">? Stars</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td>
-              <a href="https://github.com/alokinfo30/Gamebot.ai">
-                <b>?? Gamebot.ai</b>
-              </a>
-            </td>
-            <td>
-              <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-              <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-              <img src="https://img.shields.io/badge/Gemini_AI-8E44AD?style=flat-square&logo=google&logoColor=white"/>
-              <img src="https://img.shields.io/badge/PWA-4CAF50?style=flat-square&logo=pwa&logoColor=white"/>
-            </td>
-            <td align="center"><b>18</b></td>
-          </tr>
-          <tr>
-            <td>
-              <a href="https://github.com/alokinfo30/compops">
-                <b>??? compops</b>
-              </a>
-            </td>
-            <td>
-              <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-              <img src="https://img.shields.io/badge/Security-E53935?style=flat-square&logo=securityscorecard&logoColor=white"/>
-              <img src="https://img.shields.io/badge/AI_Agents-00897B?style=flat-square"/>
-            </td>
-            <td align="center"><b>12</b></td>
-          </tr>
-          <tr>
-            <td>
-              <a href="https://github.com/alokinfo30/OmniServe-AI">
-                <b>? OmniServe-AI</b>
-              </a>
-            </td>
-            <td>
-              <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-              <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-              <img src="https://img.shields.io/badge/SaaS-6366F1?style=flat-square"/>
-            </td>
-            <td align="center"><b>10</b></td>
-          </tr>
-          <tr>
-            <td>
-              <a href="https://github.com/alokinfo30/StudyOS-AI---Adaptive-Multilingual-Exam-Coach">
-                <b>?? StudyOS-AI</b>
-              </a>
-            </td>
-            <td>
-              <img src="https://img.shields.io/badge/AI_Coach-9333EA?style=flat-square"/>
-              <img src="https://img.shields.io/badge/RAG-2563EB?style=flat-square"/>
-              <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-            </td>
-            <td align="center"><b>8</b></td>
-          </tr>
-          <tr>
-            <td>
-              <a href="https://github.com/alokinfo30/alokinfo30">
-                <b>? Live Profile</b>
-              </a>
-            </td>
-            <td>
-              <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-              <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
-              <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
-            </td>
-            <td align="center"><b>6</b></td>
-          </tr>
-        </tbody>
-      </table>
+      <h2>About Me</h2>
+      <p>
+        I'm <b>Alok Srivastava</b>, a <b>Senior Systems Architect & Full-Stack AI Lead</b> specializing in building scalable software systems, high-throughput microservices, and autonomous multi-agent workflows.
+      </p>
+      <blockquote>
+        <b>Full-Stack Lead | Building Agentic AI Workflows, Node.js Backends & Distributed Systems</b>
+      </blockquote>
+      <p><b>What I specialize in:</b></p>
+      <ul>
+        <li><b>Generative AI & Agentic AI:</b> Autonomous multi-agent orchestration, RAG, and LLM fine-tuning.</li>
+        <li><b>Distributed Systems & Microservices:</b> Event-driven architectures, WebSockets, and message brokers.</li>
+        <li><b>High-Performance Backends:</b> Node.js, Express, Fastify, Python, FastAPI with PostgreSQL, MongoDB & Redis.</li>
+        <li><b>Modern Frontend & Mobile:</b> React 19, Next.js, TypeScript, Tailwind CSS, and Progressive Web Apps.</li>
+        <li><b>Cloud & Security:</b> AWS, Azure, Docker, Kubernetes, CI/CD, OAuth 2.0, SSO, and CSP compliance.</li>
+      </ul>
       <br/>
       <p align="center">
-        <i>?? "I don't just write code, I engineer intelligent scalable systems."</i>
+        <i>"I don't just write code, I engineer intelligent scalable systems."</i>
       </p>
     </td>
   </tr>
@@ -113,25 +50,101 @@
 
 ---
 
-## ?? About Me
+## My Engineering Creations & AI Platforms
 
-I'm **Alok Srivastava**, a **Senior Systems Architect & Full-Stack AI Lead** specializing in building scalable software systems, high-throughput microservices, and autonomous multi-agent workflows.
-
-> **Full-Stack Lead | Building Agentic AI Workflows, Node.js Backends & Distributed Systems**
-
-I enjoy working across:
-- ?? **Generative AI & Agentic AI**: Autonomous multi-agent orchestration, RAG, and LLM fine-tuning.
-- ??? **Distributed Systems & Microservices**: Event-driven architectures, WebSockets, gRPC, and message brokers.
-- ? **Node.js & Python Architecture**: High-concurrency backend services with PostgreSQL, MongoDB, Redis, and DynamoDB.
-- ?? **Modern Frontend & Mobile**: React 19, Next.js, TypeScript, Tailwind CSS, and Progressive Web Apps (PWA).
-- ?? **Cloud Platforms & DevOps**: AWS, Azure, Docker, Kubernetes, CI/CD GitHub Actions.
-- ?? **Security Architecture**: SSO, OAuth 2.0, Web Application Firewalls (WAF), and CSP compliance.
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="left" width="22%">Project</th>
+      <th align="left" width="38%">Tech Stack</th>
+      <th align="left" width="40%">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github.com/alokinfo30/Gamebot.ai">
+          <b>Gamebot.ai</b>
+        </a>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Gemini_AI-8E44AD?style=flat-square&logo=google&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PWA-4CAF50?style=flat-square&logo=pwa&logoColor=white"/>
+      </td>
+      <td>
+        Cross-platform 16-game suite featuring Ludo, Chess, Poker, Rummy with live spectator mode, ELO rankings, and Gemini analysis.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/alokinfo30/compops">
+          <b>compops</b>
+        </a>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Security-E53935?style=flat-square&logo=securityscorecard&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AI_Agents-00897B?style=flat-square"/>
+      </td>
+      <td>
+        Software supply-chain security platform focused on vulnerability reachability analysis and automated remediation.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/alokinfo30/OmniServe-AI">
+          <b>OmniServe-AI</b>
+        </a>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SaaS-6366F1?style=flat-square"/>
+      </td>
+      <td>
+        Multi-tenant enterprise SaaS platform for field-service management, dynamic inventory tracking, CRM, and automated dispatch.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/alokinfo30/StudyOS-AI---Adaptive-Multilingual-Exam-Coach">
+          <b>StudyOS-AI</b>
+        </a>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/AI_Coach-9333EA?style=flat-square"/>
+        <img src="https://img.shields.io/badge/RAG-2563EB?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+      </td>
+      <td>
+        Adaptive multilingual learning system with spaced repetition algorithms and AI-powered personalized exam preparation.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/alokinfo30/alokinfo30">
+          <b>Live Portfolio</b>
+        </a>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+      </td>
+      <td>
+        Interactive developer portfolio and GitHub profile showcase with dark/light themes, animations, and live widgets.
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 <br/>
 
 ---
 
-## ?? Core Technology Stack
+## Core Technology Stack
 
 <div align="center">
 
@@ -150,17 +163,17 @@ I enjoy working across:
 
 ---
 
-## ?? GitHub Stats & Graphs
+## GitHub Stats & Graphs
 
 <div align="center">
 
 <table border="0" width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="./assets/images/stats.png?v=3" alt="GitHub statistics" width="100%"/>
+      <img src="./assets/images/stats.png?v=4" alt="GitHub statistics" width="100%"/>
     </td>
     <td width="50%" align="center">
-      <img src="./assets/images/langs.png?v=3" alt="Most used programming languages" width="100%"/>
+      <img src="./assets/images/langs.png?v=4" alt="Most used programming languages" width="100%"/>
     </td>
   </tr>
 </table>
@@ -177,33 +190,31 @@ I enjoy working across:
 <br/><br/>
 
 <!-- GitHub Trophies -->
-<img src="./assets/images/trophies.png?v=3" alt="GitHub trophies" width="700"/>
+<img src="./assets/images/trophies.png?v=4" alt="GitHub trophies" width="700"/>
 
-<br/><br/>
+</div>
 
-<!-- Contribution Activity Graph -->
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=alokinfo30&bg_color=0d1117&color=ff4db8&line=a855f7&point=ffffff&area=true&hide_border=true"
-  alt="Alok Srivastava contribution activity graph"
-  width="95%"
-/>
+<br/>
 
-<br/><br/>
+---
 
-<!-- Contribution Snake Animation -->
-<h3>?? Watch the snake eat my contributions</h3>
+## Contribution Snake
+
+<div align="center">
+
+<p><b>Watch the snake eat my contributions</b></p>
 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/alokinfo30/alokinfo30/output/github-snake-dark.svg?v=3"
+    srcset="https://raw.githubusercontent.com/alokinfo30/alokinfo30/output/github-snake-dark.svg?v=4"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/alokinfo30/alokinfo30/output/github-snake.svg?v=3"
+    srcset="https://raw.githubusercontent.com/alokinfo30/alokinfo30/output/github-snake.svg?v=4"
   />
   <img
-    src="https://raw.githubusercontent.com/alokinfo30/alokinfo30/output/github-snake.svg?v=3"
+    src="https://raw.githubusercontent.com/alokinfo30/alokinfo30/output/github-snake.svg?v=4"
     alt="GitHub contribution snake animation"
     width="95%"
   />
@@ -215,7 +226,7 @@ I enjoy working across:
 
 ---
 
-## ?? Let's Connect
+## Let's Connect
 
 <div align="center">
 
@@ -244,9 +255,9 @@ I enjoy working across:
 
 <br/><br/>
 
-<img src="./sparkle.svg?v=3" alt="Sparkles" width="220"/>
+<img src="./sparkle.svg?v=4" alt="Sparkles" width="220"/>
 
-### ? Thanks for visiting!
-**`CODE ? LEARN ? BUILD ? REPEAT`**
+### Thanks for visiting!
+<b>CODE ? LEARN ? BUILD ? REPEAT</b>
 
 </div>
