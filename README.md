@@ -2,7 +2,7 @@
 
 <!-- Ultra High-Resolution Animated Banner with Light-to-Dark Transition -->
 <img
-  src="./assets/images/banner.gif?v=5"
+  src="./assets/images/banner.gif?v=6"
   alt="Alok Srivastava - Senior Consultant | Full-Stack Lead & AI Systems Architect"
   width="100%"
 />
@@ -11,94 +11,101 @@
 
 <br/>
 
-<!-- Side-by-Side 2-Column: Live Swinging Lanyard ID (Banner Gradient) + About Me & Tech Stack -->
+<!-- Side-by-Side 2-Column: Live Swinging Lanyard ID (Banner Gradient) + About Me -->
 <table border="0" width="100%">
   <tr>
-    <td width="33%" align="center" valign="top">
+    <td width="33%" align="center" valign="middle">
       <img
-        src="./assets/images/lanyard.gif?v=5"
+        src="./assets/images/lanyard.gif?v=6"
         alt="Alok Srivastava Developer ID Badge"
         width="270"
-        style="max-height: 520px; width: auto; object-fit: contain;"
+        style="max-height: 480px; width: auto; object-fit: contain;"
       />
     </td>
     <td width="67%" valign="top">
-      <h2>About Me</h2>
-      <p>
-        I'm <b>Alok Srivastava</b>, a <b>Senior Systems Architect & Full-Stack AI Lead</b> specializing in building scalable software systems, high-throughput microservices, and autonomous multi-agent workflows.
-      </p>
-      <blockquote>
-        <b>Full-Stack Lead | Building Agentic AI Workflows, Node.js Backends & Distributed Systems</b>
-      </blockquote>
-      <p><b>What I specialize in:</b></p>
-      <ul>
-        <li><b>Generative AI & Agentic AI:</b> Autonomous multi-agent orchestration, RAG, and LLM fine-tuning.</li>
-        <li><b>Distributed Systems & Microservices:</b> Event-driven architectures, WebSockets, and message brokers.</li>
-        <li><b>High-Performance Backends:</b> Node.js, Express, Fastify, Python, FastAPI with PostgreSQL, MongoDB & Redis.</li>
-        <li><b>Modern Frontend & Mobile:</b> React 19, Next.js, TypeScript, Tailwind CSS, and Progressive Web Apps.</li>
-        <li><b>Cloud & Security:</b> AWS, Azure, Docker, Kubernetes, CI/CD, OAuth 2.0, SSO, and CSP compliance.</li>
-      </ul>
-
-      <br/>
-
-      <!-- Tech Stack Badges directly at the bottom of About Me -->
-      <h3>?? Tech Stack</h3>
-      <div>
-        <img src="https://img.shields.io/badge/Node.js-F8FAFC?style=for-the-badge&logo=node.js&logoColor=339933"/>
-        <img src="https://img.shields.io/badge/Express.js-F8FAFC?style=for-the-badge&logo=express&logoColor=000000"/>
-        <img src="https://img.shields.io/badge/NestJS-F8FAFC?style=for-the-badge&logo=nestjs&logoColor=E0234E"/>
-        <img src="https://img.shields.io/badge/JavaScript-F8FAFC?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-        <img src="https://img.shields.io/badge/TypeScript-F8FAFC?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
-        <img src="https://img.shields.io/badge/React.js-F8FAFC?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Next.js-F8FAFC?style=for-the-badge&logo=next.js&logoColor=000000"/>
-        <img src="https://img.shields.io/badge/Redux%20Toolkit-F8FAFC?style=for-the-badge&logo=redux&logoColor=764ABC"/>
-        <img src="https://img.shields.io/badge/HTML5-F8FAFC?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-        <img src="https://img.shields.io/badge/CSS3-F8FAFC?style=for-the-badge&logo=css3&logoColor=1572B6"/>
-        <img src="https://img.shields.io/badge/Tailwind%20CSS-F8FAFC?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC"/>
-        <img src="https://img.shields.io/badge/Python-F8FAFC?style=for-the-badge&logo=python&logoColor=3776AB"/>
-        <img src="https://img.shields.io/badge/FastAPI-F8FAFC?style=for-the-badge&logo=fastapi&logoColor=009688"/>
-        <img src="https://img.shields.io/badge/Generative%20AI-F8FAFC?style=for-the-badge&logo=google-gemini&logoColor=8E44AD"/>
-        <img src="https://img.shields.io/badge/LLMs-F8FAFC?style=for-the-badge&logo=openai&logoColor=412991"/>
-        <img src="https://img.shields.io/badge/Prompt%20Engineering-F8FAFC?style=for-the-badge&logo=chatgpt&logoColor=00A67E"/>
-        <img src="https://img.shields.io/badge/LangChain-F8FAFC?style=for-the-badge&logo=chainlink&logoColor=375BD2"/>
-        <img src="https://img.shields.io/badge/CrewAI-F8FAFC?style=for-the-badge&logo=airtable&logoColor=EA4335"/>
-        <img src="https://img.shields.io/badge/LangGraph-F8FAFC?style=for-the-badge&logo=diagram-next&logoColor=10B981"/>
-        <img src="https://img.shields.io/badge/RAG-F8FAFC?style=for-the-badge&logo=databricks&logoColor=FF3621"/>
-        <img src="https://img.shields.io/badge/Vector%20DBs-F8FAFC?style=for-the-badge&logo=qdrant&logoColor=DC2626"/>
-        <img src="https://img.shields.io/badge/GraphQL-F8FAFC?style=for-the-badge&logo=graphql&logoColor=E10098"/>
-        <img src="https://img.shields.io/badge/REST%20APIs-F8FAFC?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
-        <img src="https://img.shields.io/badge/Microservices-F8FAFC?style=for-the-badge&logo=kubernetes&logoColor=326CE5"/>
-        <img src="https://img.shields.io/badge/Event%20Driven-F8FAFC?style=for-the-badge&logo=apache-kafka&logoColor=231F20"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-F8FAFC?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
-        <img src="https://img.shields.io/badge/MySQL-F8FAFC?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
-        <img src="https://img.shields.io/badge/MongoDB-F8FAFC?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
-        <img src="https://img.shields.io/badge/Cosmos%20DB-F8FAFC?style=for-the-badge&logo=azure&logoColor=0078D4"/>
-        <img src="https://img.shields.io/badge/DynamoDB-F8FAFC?style=for-the-badge&logo=amazon-dynamodb&logoColor=4053D6"/>
-        <img src="https://img.shields.io/badge/Redis-F8FAFC?style=for-the-badge&logo=redis&logoColor=DC382D"/>
-        <img src="https://img.shields.io/badge/AWS-F8FAFC?style=for-the-badge&logo=amazon-aws&logoColor=FF9900"/>
-        <img src="https://img.shields.io/badge/Azure-F8FAFC?style=for-the-badge&logo=microsoft-azure&logoColor=0078D4"/>
-        <img src="https://img.shields.io/badge/Docker-F8FAFC?style=for-the-badge&logo=docker&logoColor=2496ED"/>
-        <img src="https://img.shields.io/badge/Kubernetes-F8FAFC?style=for-the-badge&logo=kubernetes&logoColor=326CE5"/>
-        <img src="https://img.shields.io/badge/CI%2FCD-F8FAFC?style=for-the-badge&logo=circleci&logoColor=343434"/>
-        <img src="https://img.shields.io/badge/Git-F8FAFC?style=for-the-badge&logo=git&logoColor=F05032"/>
-        <img src="https://img.shields.io/badge/GitHub%20Actions-F8FAFC?style=for-the-badge&logo=github-actions&logoColor=2088FF"/>
-        <img src="https://img.shields.io/badge/Agile-F8FAFC?style=for-the-badge&logo=jira&logoColor=0052CC"/>
-        <img src="https://img.shields.io/badge/Scrum-F8FAFC?style=for-the-badge&logo=trello&logoColor=0052CC"/>
-        <img src="https://img.shields.io/badge/Jest-F8FAFC?style=for-the-badge&logo=jest&logoColor=C21325"/>
-        <img src="https://img.shields.io/badge/SSO-F8FAFC?style=for-the-badge&logo=auth0&logoColor=EB5424"/>
-        <img src="https://img.shields.io/badge/OAuth2-F8FAFC?style=for-the-badge&logo=openid&logoColor=F78C40"/>
-        <img src="https://img.shields.io/badge/JWT-F8FAFC?style=for-the-badge&logo=json-web-tokens&logoColor=000000"/>
-        <img src="https://img.shields.io/badge/WebSockets-F8FAFC?style=for-the-badge&logo=socketdotio&logoColor=010101"/>
-        <img src="https://img.shields.io/badge/SSE-F8FAFC?style=for-the-badge&logo=fastapi&logoColor=9333EA"/>
-        <img src="https://img.shields.io/badge/API%20Gateway-F8FAFC?style=for-the-badge&logo=kong&logoColor=003366"/>
-        <img src="https://img.shields.io/badge/Prometheus-F8FAFC?style=for-the-badge&logo=prometheus&logoColor=E6522C"/>
-        <img src="https://img.shields.io/badge/Grafana-F8FAFC?style=for-the-badge&logo=grafana&logoColor=F46800"/>
-        <img src="https://img.shields.io/badge/Docs-F8FAFC?style=for-the-badge&logo=gitbook&logoColor=3884FF"/>
-        <img src="https://img.shields.io/badge/Mentoring-F8FAFC?style=for-the-badge&logo=google-classroom&logoColor=F59E0B"/>
-      </div>
+<h2>About Me</h2>
+<p>
+I'm <b>Alok Srivastava</b>, a <b>Senior Systems Architect & Full-Stack AI Lead</b> specializing in building scalable software systems, high-throughput microservices, and autonomous multi-agent workflows.
+</p>
+<blockquote>
+<b>Full-Stack Lead | Building Agentic AI Workflows, Node.js Backends & Distributed Systems</b>
+</blockquote>
+<p><b>What I specialize in:</b></p>
+<ul>
+<li><b>Generative AI & Agentic AI:</b> Autonomous multi-agent orchestration, RAG, and LLM fine-tuning.</li>
+<li><b>Distributed Systems & Microservices:</b> Event-driven architectures, WebSockets, and message brokers.</li>
+<li><b>High-Performance Backends:</b> Node.js, Express, Fastify, Python, FastAPI with PostgreSQL, MongoDB & Redis.</li>
+<li><b>Modern Frontend & Mobile:</b> React 19, Next.js, TypeScript, Tailwind CSS, and Progressive Web Apps.</li>
+<li><b>Cloud & Security:</b> AWS, Azure, Docker, Kubernetes, CI/CD, OAuth 2.0, SSO, and CSP compliance.</li>
+</ul>
+<p align="center">
+<i>"I don't just write code, I engineer intelligent scalable systems."</i>
+</p>
     </td>
   </tr>
 </table>
+
+<br/>
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Node.js-F8FAFC?style=for-the-badge&logo=node.js&logoColor=339933"/>&nbsp;
+<img src="https://img.shields.io/badge/Express.js-F8FAFC?style=for-the-badge&logo=express&logoColor=000000"/>&nbsp;
+<img src="https://img.shields.io/badge/NestJS-F8FAFC?style=for-the-badge&logo=nestjs&logoColor=E0234E"/>&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-F8FAFC?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>&nbsp;
+<img src="https://img.shields.io/badge/TypeScript-F8FAFC?style=for-the-badge&logo=typescript&logoColor=3178C6"/>&nbsp;
+<img src="https://img.shields.io/badge/React.js-F8FAFC?style=for-the-badge&logo=react&logoColor=61DAFB"/>&nbsp;
+<img src="https://img.shields.io/badge/Next.js-F8FAFC?style=for-the-badge&logo=next.js&logoColor=000000"/>&nbsp;
+<img src="https://img.shields.io/badge/Redux%20Toolkit-F8FAFC?style=for-the-badge&logo=redux&logoColor=764ABC"/>&nbsp;
+<img src="https://img.shields.io/badge/HTML5-F8FAFC?style=for-the-badge&logo=html5&logoColor=E34F26"/>&nbsp;
+<img src="https://img.shields.io/badge/CSS3-F8FAFC?style=for-the-badge&logo=css3&logoColor=1572B6"/>&nbsp;
+<img src="https://img.shields.io/badge/Tailwind%20CSS-F8FAFC?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC"/>&nbsp;
+<img src="https://img.shields.io/badge/Python-F8FAFC?style=for-the-badge&logo=python&logoColor=3776AB"/>&nbsp;
+<img src="https://img.shields.io/badge/FastAPI-F8FAFC?style=for-the-badge&logo=fastapi&logoColor=009688"/>&nbsp;
+<img src="https://img.shields.io/badge/Generative%20AI-F8FAFC?style=for-the-badge&logo=google-gemini&logoColor=8E44AD"/>&nbsp;
+<img src="https://img.shields.io/badge/LLMs-F8FAFC?style=for-the-badge&logo=openai&logoColor=412991"/>&nbsp;
+<img src="https://img.shields.io/badge/Prompt%20Engineering-F8FAFC?style=for-the-badge&logo=chatgpt&logoColor=00A67E"/>&nbsp;
+<img src="https://img.shields.io/badge/LangChain-F8FAFC?style=for-the-badge&logo=chainlink&logoColor=375BD2"/>&nbsp;
+<img src="https://img.shields.io/badge/CrewAI-F8FAFC?style=for-the-badge&logo=airtable&logoColor=EA4335"/>&nbsp;
+<img src="https://img.shields.io/badge/LangGraph-F8FAFC?style=for-the-badge&logo=diagram-next&logoColor=10B981"/>&nbsp;
+<img src="https://img.shields.io/badge/RAG-F8FAFC?style=for-the-badge&logo=databricks&logoColor=FF3621"/>&nbsp;
+<img src="https://img.shields.io/badge/Vector%20DBs-F8FAFC?style=for-the-badge&logo=qdrant&logoColor=DC2626"/>&nbsp;
+<img src="https://img.shields.io/badge/GraphQL-F8FAFC?style=for-the-badge&logo=graphql&logoColor=E10098"/>&nbsp;
+<img src="https://img.shields.io/badge/REST%20APIs-F8FAFC?style=for-the-badge&logo=postman&logoColor=FF6C37"/>&nbsp;
+<img src="https://img.shields.io/badge/Microservices-F8FAFC?style=for-the-badge&logo=kubernetes&logoColor=326CE5"/>&nbsp;
+<img src="https://img.shields.io/badge/Event%20Driven-F8FAFC?style=for-the-badge&logo=apache-kafka&logoColor=231F20"/>&nbsp;
+<img src="https://img.shields.io/badge/PostgreSQL-F8FAFC?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>&nbsp;
+<img src="https://img.shields.io/badge/MySQL-F8FAFC?style=for-the-badge&logo=mysql&logoColor=4479A1"/>&nbsp;
+<img src="https://img.shields.io/badge/MongoDB-F8FAFC?style=for-the-badge&logo=mongodb&logoColor=47A248"/>&nbsp;
+<img src="https://img.shields.io/badge/Cosmos%20DB-F8FAFC?style=for-the-badge&logo=azure&logoColor=0078D4"/>&nbsp;
+<img src="https://img.shields.io/badge/DynamoDB-F8FAFC?style=for-the-badge&logo=amazon-dynamodb&logoColor=4053D6"/>&nbsp;
+<img src="https://img.shields.io/badge/Redis-F8FAFC?style=for-the-badge&logo=redis&logoColor=DC382D"/>&nbsp;
+<img src="https://img.shields.io/badge/AWS-F8FAFC?style=for-the-badge&logo=amazon-aws&logoColor=FF9900"/>&nbsp;
+<img src="https://img.shields.io/badge/Azure-F8FAFC?style=for-the-badge&logo=microsoft-azure&logoColor=0078D4"/>&nbsp;
+<img src="https://img.shields.io/badge/Docker-F8FAFC?style=for-the-badge&logo=docker&logoColor=2496ED"/>&nbsp;
+<img src="https://img.shields.io/badge/Kubernetes-F8FAFC?style=for-the-badge&logo=kubernetes&logoColor=326CE5"/>&nbsp;
+<img src="https://img.shields.io/badge/CI%2FCD-F8FAFC?style=for-the-badge&logo=circleci&logoColor=343434"/>&nbsp;
+<img src="https://img.shields.io/badge/Git-F8FAFC?style=for-the-badge&logo=git&logoColor=F05032"/>&nbsp;
+<img src="https://img.shields.io/badge/GitHub%20Actions-F8FAFC?style=for-the-badge&logo=github-actions&logoColor=2088FF"/>&nbsp;
+<img src="https://img.shields.io/badge/Agile-F8FAFC?style=for-the-badge&logo=jira&logoColor=0052CC"/>&nbsp;
+<img src="https://img.shields.io/badge/Scrum-F8FAFC?style=for-the-badge&logo=trello&logoColor=0052CC"/>&nbsp;
+<img src="https://img.shields.io/badge/Jest-F8FAFC?style=for-the-badge&logo=jest&logoColor=C21325"/>&nbsp;
+<img src="https://img.shields.io/badge/SSO-F8FAFC?style=for-the-badge&logo=auth0&logoColor=EB5424"/>&nbsp;
+<img src="https://img.shields.io/badge/OAuth2-F8FAFC?style=for-the-badge&logo=openid&logoColor=F78C40"/>&nbsp;
+<img src="https://img.shields.io/badge/JWT-F8FAFC?style=for-the-badge&logo=json-web-tokens&logoColor=000000"/>&nbsp;
+<img src="https://img.shields.io/badge/WebSockets-F8FAFC?style=for-the-badge&logo=socketdotio&logoColor=010101"/>&nbsp;
+<img src="https://img.shields.io/badge/SSE-F8FAFC?style=for-the-badge&logo=fastapi&logoColor=9333EA"/>&nbsp;
+<img src="https://img.shields.io/badge/API%20Gateway-F8FAFC?style=for-the-badge&logo=kong&logoColor=003366"/>&nbsp;
+<img src="https://img.shields.io/badge/Prometheus-F8FAFC?style=for-the-badge&logo=prometheus&logoColor=E6522C"/>&nbsp;
+<img src="https://img.shields.io/badge/Grafana-F8FAFC?style=for-the-badge&logo=grafana&logoColor=F46800"/>&nbsp;
+<img src="https://img.shields.io/badge/Docs-F8FAFC?style=for-the-badge&logo=gitbook&logoColor=3884FF"/>&nbsp;
+<img src="https://img.shields.io/badge/Mentoring-F8FAFC?style=for-the-badge&logo=google-classroom&logoColor=F59E0B"/>
+
+</div>
 
 <br/>
 
@@ -205,10 +212,10 @@
 <table border="0" width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="./assets/images/stats.png?v=5" alt="GitHub statistics" width="100%"/>
+      <img src="./assets/images/stats.png?v=6" alt="GitHub statistics" width="100%"/>
     </td>
     <td width="50%" align="center">
-      <img src="./assets/images/langs.png?v=5" alt="Most used programming languages" width="100%"/>
+      <img src="./assets/images/langs.png?v=6" alt="Most used programming languages" width="100%"/>
     </td>
   </tr>
 </table>
@@ -225,7 +232,7 @@
 <br/><br/>
 
 <!-- GitHub Trophies -->
-<img src="./assets/images/trophies.png?v=5" alt="GitHub trophies" width="700"/>
+<img src="./assets/images/trophies.png?v=6" alt="GitHub trophies" width="700"/>
 
 </div>
 
@@ -242,14 +249,14 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/alokinfo30/alokinfo30/output/github-snake-dark.svg?v=5"
+    srcset="https://raw.githubusercontent.com/alokinfo30/alokinfo30/output/github-snake-dark.svg?v=6"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/alokinfo30/alokinfo30/output/github-snake.svg?v=5"
+    srcset="https://raw.githubusercontent.com/alokinfo30/alokinfo30/output/github-snake.svg?v=6"
   />
   <img
-    src="https://raw.githubusercontent.com/alokinfo30/alokinfo30/output/github-snake.svg?v=5"
+    src="https://raw.githubusercontent.com/alokinfo30/alokinfo30/output/github-snake.svg?v=6"
     alt="GitHub contribution snake animation"
     width="95%"
   />
@@ -290,7 +297,7 @@
 
 <br/><br/>
 
-<img src="./sparkle.svg?v=5" alt="Sparkles" width="220"/>
+<img src="./sparkle.svg?v=6" alt="Sparkles" width="220"/>
 
 ### Thanks for visiting!
 <b>CODE ? LEARN ? BUILD ? REPEAT</b>
