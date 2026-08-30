@@ -1,9 +1,7 @@
 <div align="center">
 
-<!-- Ultra High-Resolution Animated Banner with Light-to-Dark Transition -->
 <img
-  src="./assets/images/banner.gif?v=8"
-  alt="Alok Srivastava - Senior Consultant | Full-Stack Lead & AI Systems Architect"
+  src="./assets/images/banner.gif?v=9"
   width="100%"
 />
 
@@ -11,13 +9,12 @@
 
 <br/>
 
-<!-- Side-by-Side 2-Column: Live Swinging Lanyard ID + Colorful About Me -->
+<!-- 2-Column: Live Swinging Lanyard ID + Colorful About Me -->
 <table border="0" width="100%">
   <tr>
     <td width="33%" align="center" valign="middle">
       <img
-        src="./assets/images/lanyard.gif?v=8"
-        alt="Alok Srivastava Developer ID Badge"
+        src="./assets/images/lanyard.gif?v=9"
         height="370"
         style="max-height: 370px; width: auto; object-fit: contain;"
       />
@@ -215,27 +212,24 @@ I'm <b>Alok Srivastava</b>, a <b>Senior Systems Architect</b> & <b>Full-Stack AI
 <table border="0" width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="./assets/images/stats.png?v=8" alt="GitHub statistics" width="100%"/>
+      <img src="./assets/images/stats.png?v=9" width="100%"/>
     </td>
     <td width="50%" align="center">
-      <img src="./assets/images/langs.png?v=8" alt="Most used programming languages" width="100%"/>
+      <img src="./assets/images/langs.png?v=9" width="100%"/>
     </td>
   </tr>
 </table>
 
 <br/>
 
-<!-- GitHub Streak Stats -->
 <img
   src="https://github-readme-streak-stats.herokuapp.com/?user=alokinfo30&theme=tokyonight&hide_border=true&border_radius=12&background=0d1117"
-  alt="Alok Srivastava GitHub Streak"
   width="520"
 />
 
 <br/><br/>
 
-<!-- GitHub Trophies -->
-<img src="./assets/images/trophies.png?v=8" alt="GitHub trophies" width="700"/>
+<img src="./assets/images/trophies.png?v=9" width="700"/>
 
 </div>
 
@@ -252,15 +246,14 @@ I'm <b>Alok Srivastava</b>, a <b>Senior Systems Architect</b> & <b>Full-Stack AI
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/alokinfo30/alokinfo30/output/github-snake-dark.svg?v=8"
+    srcset="https://raw.githubusercontent.com/alokinfo30/alokinfo30/output/github-snake-dark.svg?v=9"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/alokinfo30/alokinfo30/output/github-snake.svg?v=8"
+    srcset="https://raw.githubusercontent.com/alokinfo30/alokinfo30/output/github-snake.svg?v=9"
   />
   <img
-    src="https://raw.githubusercontent.com/alokinfo30/alokinfo30/output/github-snake.svg?v=8"
-    alt="GitHub contribution snake animation"
+    src="https://raw.githubusercontent.com/alokinfo30/alokinfo30/output/github-snake.svg?v=9"
     width="95%"
   />
 </picture>
@@ -276,31 +269,30 @@ I'm <b>Alok Srivastava</b>, a <b>Senior Systems Architect</b> & <b>Full-Stack AI
 <div align="center">
 
 <a href="mailto:alokinfo30@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://github.com/alokinfo30">
-  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/alok-srivastava-77b9b460/">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://github.com/alokinfo30">
-  <img src="https://img.shields.io/badge/PORTFOLIO-FF4DB8?style=for-the-badge&logo=appveyor&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/PORTFOLIO-FF4DB8?style=for-the-badge&logo=appveyor&logoColor=white"/>
 </a>
 
 <br/><br/>
 
 <img
   src="https://komarev.com/ghpvc/?username=alokinfo30&label=PROFILE+VIEWS&color=ff4db8&style=for-the-badge"
-  alt="Profile views"
 />
 
 <br/><br/>
 
-<img src="./sparkle.svg?v=8" alt="Sparkles" width="220"/>
+<img src="./sparkle.svg?v=9" width="220"/>
 
 ### Thanks for visiting!
 <b>CODE ? LEARN ? BUILD ? REPEAT</b>
