@@ -2,7 +2,7 @@
 
 <!-- Ultra High-Resolution Animated Banner with Light-to-Dark Transition -->
 <img
-  src="./assets/images/banner.gif?v=6"
+  src="./assets/images/banner.gif?v=8"
   alt="Alok Srivastava - Senior Consultant | Full-Stack Lead & AI Systems Architect"
   width="100%"
 />
@@ -11,35 +11,38 @@
 
 <br/>
 
-<!-- Side-by-Side 2-Column: Live Swinging Lanyard ID (Banner Gradient) + About Me -->
+<!-- Side-by-Side 2-Column: Live Swinging Lanyard ID + Colorful About Me -->
 <table border="0" width="100%">
   <tr>
     <td width="33%" align="center" valign="middle">
       <img
-        src="./assets/images/lanyard.gif?v=7"
+        src="./assets/images/lanyard.gif?v=8"
         alt="Alok Srivastava Developer ID Badge"
         height="370"
         style="max-height: 370px; width: auto; object-fit: contain;"
       />
     </td>
     <td width="67%" valign="top">
-<h2>About Me</h2>
+<h2><img src="https://img.shields.io/badge/About%20Me-Alok%20Srivastava-ff2d8d?style=for-the-badge&logo=google-gemini&logoColor=white"/></h2>
 <p>
-I'm <b>Alok Srivastava</b>, a <b>Senior Systems Architect & Full-Stack AI Lead</b> specializing in building scalable software systems, high-throughput microservices, and autonomous multi-agent workflows.
+I'm <b>Alok Srivastava</b>, a <b>Senior Systems Architect</b> & <b>Full-Stack AI Lead</b> specializing in building scalable software systems, high-throughput microservices, and autonomous multi-agent workflows.
 </p>
-<blockquote>
-<b>Full-Stack Lead | Building Agentic AI Workflows, Node.js Backends & Distributed Systems</b>
-</blockquote>
-<p><b>What I specialize in:</b></p>
+<div>
+<img src="https://img.shields.io/badge/Role-Full--Stack%20Lead-FF4DB8?style=flat-square&logo=react&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Specialization-Agentic%20AI%20Workflows-9333EA?style=flat-square&logo=openai&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Architecture-Distributed%20Systems-00897B?style=flat-square&logo=kubernetes&logoColor=white"/>
+</div>
+<br/>
+<p><b>Core Domains & Expertise:</b></p>
 <ul>
-<li><b>Generative AI & Agentic AI:</b> Autonomous multi-agent orchestration, RAG, and LLM fine-tuning.</li>
-<li><b>Distributed Systems & Microservices:</b> Event-driven architectures, WebSockets, and message brokers.</li>
-<li><b>High-Performance Backends:</b> Node.js, Express, Fastify, Python, FastAPI with PostgreSQL, MongoDB & Redis.</li>
-<li><b>Modern Frontend & Mobile:</b> React 19, Next.js, TypeScript, Tailwind CSS, and Progressive Web Apps.</li>
-<li><b>Cloud & Security:</b> AWS, Azure, Docker, Kubernetes, CI/CD, OAuth 2.0, SSO, and CSP compliance.</li>
+<li><img src="https://img.shields.io/badge/AI-Generative%20AI%20%26%20Agentic%20Workflows-8E44AD?style=flat-square"/> Autonomous multi-agent orchestration, RAG, and LLM fine-tuning.</li>
+<li><img src="https://img.shields.io/badge/Architecture-Distributed%20Systems-0284C7?style=flat-square"/> Event-driven architectures, WebSockets, gRPC, and message brokers.</li>
+<li><img src="https://img.shields.io/badge/Backend-Node.js%20%26%20FastAPI-16A34A?style=flat-square"/> High-throughput microservices with PostgreSQL, MongoDB, Redis & DynamoDB.</li>
+<li><img src="https://img.shields.io/badge/Frontend-React%2019%20%26%20Next.js-2563EB?style=flat-square"/> Responsive UI/UX, TypeScript, Tailwind CSS, and Progressive Web Apps.</li>
+<li><img src="https://img.shields.io/badge/DevOps-AWS%2C%20Azure%20%26%20K8s-EA580C?style=flat-square"/> Docker, CI/CD GitHub Actions, OAuth 2.0, SSO, and CSP compliance.</li>
 </ul>
 <p align="center">
-<i>"I don't just write code, I engineer intelligent scalable systems."</i>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2500&pause=1000&color=FF4DB8&center=true&vCenter=true&width=450&lines=Code+%E2%86%92+Learn+%E2%86%92+Build+%E2%86%92+Repeat;Building+Systems+That+Scale;Engineering+AI+That+Matters"/>
 </p>
     </td>
   </tr>
@@ -212,10 +215,10 @@ I'm <b>Alok Srivastava</b>, a <b>Senior Systems Architect & Full-Stack AI Lead</
 <table border="0" width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="./assets/images/stats.png?v=6" alt="GitHub statistics" width="100%"/>
+      <img src="./assets/images/stats.png?v=8" alt="GitHub statistics" width="100%"/>
     </td>
     <td width="50%" align="center">
-      <img src="./assets/images/langs.png?v=6" alt="Most used programming languages" width="100%"/>
+      <img src="./assets/images/langs.png?v=8" alt="Most used programming languages" width="100%"/>
     </td>
   </tr>
 </table>
@@ -232,7 +235,7 @@ I'm <b>Alok Srivastava</b>, a <b>Senior Systems Architect & Full-Stack AI Lead</
 <br/><br/>
 
 <!-- GitHub Trophies -->
-<img src="./assets/images/trophies.png?v=6" alt="GitHub trophies" width="700"/>
+<img src="./assets/images/trophies.png?v=8" alt="GitHub trophies" width="700"/>
 
 </div>
 
@@ -249,14 +252,14 @@ I'm <b>Alok Srivastava</b>, a <b>Senior Systems Architect & Full-Stack AI Lead</
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/alokinfo30/alokinfo30/output/github-snake-dark.svg?v=6"
+    srcset="https://raw.githubusercontent.com/alokinfo30/alokinfo30/output/github-snake-dark.svg?v=8"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/alokinfo30/alokinfo30/output/github-snake.svg?v=6"
+    srcset="https://raw.githubusercontent.com/alokinfo30/alokinfo30/output/github-snake.svg?v=8"
   />
   <img
-    src="https://raw.githubusercontent.com/alokinfo30/alokinfo30/output/github-snake.svg?v=6"
+    src="https://raw.githubusercontent.com/alokinfo30/alokinfo30/output/github-snake.svg?v=8"
     alt="GitHub contribution snake animation"
     width="95%"
   />
@@ -297,7 +300,7 @@ I'm <b>Alok Srivastava</b>, a <b>Senior Systems Architect & Full-Stack AI Lead</
 
 <br/><br/>
 
-<img src="./sparkle.svg?v=6" alt="Sparkles" width="220"/>
+<img src="./sparkle.svg?v=8" alt="Sparkles" width="220"/>
 
 ### Thanks for visiting!
 <b>CODE ? LEARN ? BUILD ? REPEAT</b>
