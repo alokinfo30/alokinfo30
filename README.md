@@ -268,6 +268,11 @@ I'm <b>Alok Srivastava</b>, a <b>Senior Systems Architect</b> & <b>Full-Stack AI
 
 <div align="center">
 
+<!-- Vibrant Animated Connect Glow -->
+<img src="./assets/images/connect-glow.gif?v=1" width="100%" />
+
+<br/><br/>
+
 <a href="mailto:alokinfo30@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -292,7 +297,7 @@ I'm <b>Alok Srivastava</b>, a <b>Senior Systems Architect</b> & <b>Full-Stack AI
 
 <br/><br/>
 
-<img src="./sparkle.svg?v=9" width="220"/>
+<img src="./sparkle.svg?v=9" width="360"/>
 
 ### Thanks for visiting!
 <b>CODE ? LEARN ? BUILD ? REPEAT</b>
