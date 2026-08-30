@@ -1,44 +1,35 @@
 <div align="center">
 
-<!-- Header Banner -->
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="./assets/images/banner.png?v=2"
-  />
-  <source
-    media="(prefers-color-scheme: light)"   
-    srcset="./assets/images/banner-light.png?v=2"
-  />
-  <img
-    src="./assets/images/banner.png?v=2"
-    alt="Alok Srivastava - Full-Stack Lead | Building Agentic AI Workflows"
-    width="100%"
-  />
-</picture>
+<!-- Ultra High-Resolution Animated Banner with Light-to-Dark Transition -->
+<img
+  src="./assets/images/banner.gif?v=3"
+  alt="Alok Srivastava - Senior Consultant | Full-Stack Lead & AI Systems Architect"
+  width="100%"
+/>
 
 </div>
 
 <br/>
 
-<!-- 2-Column Side-by-Side: Lanyard ID Badge + Featured Creations Table -->
+<!-- Side-by-Side 2-Column: Live Swinging Lanyard ID + Featured Creations -->
 <table border="0" width="100%">
   <tr>
-    <td width="36%" align="center" valign="top">
+    <td width="33%" align="center" valign="middle">
       <img
-        src="./assets/images/lanyard.png?v=2"
+        src="./assets/images/lanyard.gif?v=3"
         alt="Alok Srivastava Developer ID Badge"
-        width="100%"
+        width="270"
+        style="max-height: 480px; width: auto; object-fit: contain;"
       />
     </td>
-    <td width="64%" valign="top">
+    <td width="67%" valign="top">
       <h3>?? My Engineering Creations & AI Platforms</h3>
       <table width="100%">
         <thead>
           <tr>
             <th align="left">?? Project</th>
             <th align="left">??? Tech Stack</th>
-            <th align="center">?</th>
+            <th align="center">? Stars</th>
           </tr>
         </thead>
         <tbody>
@@ -166,10 +157,10 @@ I enjoy working across:
 <table border="0" width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="./assets/images/stats.png?v=2" alt="GitHub statistics" width="100%"/>
+      <img src="./assets/images/stats.png?v=3" alt="GitHub statistics" width="100%"/>
     </td>
     <td width="50%" align="center">
-      <img src="./assets/images/langs.png?v=2" alt="Most used programming languages" width="100%"/>
+      <img src="./assets/images/langs.png?v=3" alt="Most used programming languages" width="100%"/>
     </td>
   </tr>
 </table>
@@ -186,7 +177,7 @@ I enjoy working across:
 <br/><br/>
 
 <!-- GitHub Trophies -->
-<img src="./assets/images/trophies.png?v=2" alt="GitHub trophies" width="700"/>
+<img src="./assets/images/trophies.png?v=3" alt="GitHub trophies" width="700"/>
 
 <br/><br/>
 
@@ -205,14 +196,14 @@ I enjoy working across:
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/alokinfo30/alokinfo30/output/github-snake-dark.svg?v=2"
+    srcset="https://raw.githubusercontent.com/alokinfo30/alokinfo30/output/github-snake-dark.svg?v=3"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/alokinfo30/alokinfo30/output/github-snake.svg?v=2"
+    srcset="https://raw.githubusercontent.com/alokinfo30/alokinfo30/output/github-snake.svg?v=3"
   />
   <img
-    src="https://raw.githubusercontent.com/alokinfo30/alokinfo30/output/github-snake.svg?v=2"
+    src="https://raw.githubusercontent.com/alokinfo30/alokinfo30/output/github-snake.svg?v=3"
     alt="GitHub contribution snake animation"
     width="95%"
   />
@@ -253,7 +244,7 @@ I enjoy working across:
 
 <br/><br/>
 
-<img src="./sparkle.svg?v=2" alt="Sparkles" width="220"/>
+<img src="./sparkle.svg?v=3" alt="Sparkles" width="220"/>
 
 ### ? Thanks for visiting!
 **`CODE ? LEARN ? BUILD ? REPEAT`**
