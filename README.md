@@ -16,10 +16,10 @@
   <tr>
     <td width="33%" align="center" valign="middle">
       <img
-        src="./assets/images/lanyard.gif?v=6"
+        src="./assets/images/lanyard.gif?v=7"
         alt="Alok Srivastava Developer ID Badge"
-        width="270"
-        style="max-height: 480px; width: auto; object-fit: contain;"
+        height="370"
+        style="max-height: 370px; width: auto; object-fit: contain;"
       />
     </td>
     <td width="67%" valign="top">
